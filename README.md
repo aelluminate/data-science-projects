@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/iZEcN8s.png)
 
-Serves as a central platform for showcasing various data science projects, examples, notebooks, and resources. It aims to provide a comprehensive platform for learning, experimenting, and collaborating on all aspects of data science.
+Showcase diverse data science projects, examples, notebooks & resources. Learn, experiment & collaborate on all aspects of data science. Analyze & understand data to extract insights & knowledge. Utilize techniques like data cleaning, preprocessing, exploratory data analysis, statistical modeling & visualization.
 
 ### Projects
 
